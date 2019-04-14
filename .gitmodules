@@ -1,0 +1,12 @@
+[submodule "D3"]
+	path = D3
+	url = https://github.com/GedMarc/JWebMP-D3Plugin.git
+[submodule "C3"]
+	path = C3
+	url = https://github.com/GedMarc/JWebMP-C3Plugin.git
+[submodule "EasyPieChart"]
+	path = EasyPieChart
+	url = https://github.com/GedMarc/JWebMP-Easy-Pie-Chart.git
+[submodule "JQPlot"]
+	path = JQPlot
+	url = https://github.com/GedMarc/JWebMP-JQPlotPlugin.git
