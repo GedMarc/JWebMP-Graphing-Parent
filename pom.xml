@@ -10,19 +10,14 @@
     <artifactId>jwebmp-plugins-graphing-parent</artifactId>
     <packaging>pom</packaging>
 
-    <name>Bootstrap Modules</name>
+    <name>Graphing Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
-    <profiles>
-        <profile>
-            <id>devkit</id>
-            <modules>
-                <module>C3</module>
-                <module>D3</module>
-                <module>EasyPieChart</module>
-                <module>JQPlot</module>
-            </modules>
-        </profile>
-    </profiles>
+    <modules>
+        <module>C3</module>
+        <module>D3</module>
+        <module>EasyPieChart</module>
+        <module>JQPlot</module>
+    </modules>
 
 </project>
