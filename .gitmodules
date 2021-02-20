@@ -14,3 +14,6 @@
 	path = JQPlot
 	url = https://github.com/GedMarc/JWebMP-JQPlotPlugin.git
 	ignore=dirty
+[submodule "ChartJS"]
+	path = ChartJS
+	url = https://github.com/GedMarc/JWebMP-ChartJS.git
