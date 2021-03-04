@@ -12,13 +12,21 @@
 
     <name>Graphing Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
-
-    <modules>
+	
+	<profiles>
+		<profile>
+			<id>enable-plugins</id>
+			<modules>
         <module>C3</module>
         <module>D3</module>
 		<module>ChartJS</module>
         <module>EasyPieChart</module>
         <module>JQPlot</module>
     </modules>
+			
+		</profile>
+	</profiles>
+
+    
 
 </project>
