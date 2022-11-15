@@ -18,7 +18,7 @@
         <profile>
             <id>enable-plugins</id>
             <modules>
-				<!-- <module>ChartJS</module> -->
+				<module>ChartJS</module>
 			
                 <!-- 
 				<module>C3</module>
